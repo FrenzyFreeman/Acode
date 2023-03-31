@@ -1418,6 +1418,10 @@
   background-image: url('./icons/file_type_renovate.svg');
 }
 
+.file.file_type_renpy {
+  background-image: url('./icons/file_type_renpy.svg');
+}
+
 .file.file_type_rest {
   background-image: url('./icons/file_type_rest.svg');
 }
