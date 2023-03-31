@@ -162,6 +162,7 @@ ace.define("ace/ext/modelist", ["require", "exports", "module"], function (requi
     Razor: ["cshtml|asp"],
     RDoc: ["Rd"],
     Red: ["red|reds"],
+    Renpy: ["rpy|rpyc"]
     RHTML: ["Rhtml"],
     RST: ["rst"],
     Ruby: ["rb|ru|gemspec|rake|^Guardfile|^Rakefile|^Gemfile"],
